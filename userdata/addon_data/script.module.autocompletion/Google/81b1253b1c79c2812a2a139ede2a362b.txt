@@ -1,0 +1,1 @@
+["AP", ["aportes en linea", "apple", "apple watch", "ape", "apple store", "apple tv", "apego evitativo", "aptoide", "apple colombia", "apple music"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["[COLOR springgreen][B]Buscar Anime [/B][/COLOR]", ["color springgreen b buscar anime /b /color #", "color springgreen b buscar anime /b /color c"], [], {"google:suggestsubtypes": [[10, 160], [10, 160]], "google:suggesttype": ["TAIL", "TAIL"]}]

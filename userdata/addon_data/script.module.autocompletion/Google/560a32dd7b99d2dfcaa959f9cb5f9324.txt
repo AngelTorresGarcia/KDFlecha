@@ -1,0 +1,1 @@
+["Bac", ["bachata", "bacalar", "backstreet boys", "bacardi", "background remover", "baccarat rouge 540", "bacalao", "back to the future", "background", "bactrim"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["AppsAdd", ["apps add", "apps additional google services", "apps add music to video", "apps addiction", "apps ad blocker"], [], {"google:suggestsubtypes": [[512, 10], [512, 10], [512, 10], [512, 10], [512, 10]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

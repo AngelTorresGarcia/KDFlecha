@@ -1,0 +1,1 @@
+["sp", ["spotify", "speed test", "spirit", "spanish to english", "spotify premium", "spotify premium apk", "spiderman", "spring", "spotify stats", "speedo"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

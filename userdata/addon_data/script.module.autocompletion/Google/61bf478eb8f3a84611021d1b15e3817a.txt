@@ -1,0 +1,1 @@
+["[COLOR lime] > [COLOR yellow]Mage[/COLOR]", ["color lime color yellow mage /color +", "color lime color yellow mage /color 2", "color lime color yellow mage /color 1"], [], {"google:suggestsubtypes": [[160], [160], [160]], "google:suggesttype": ["TAIL", "TAIL", "TAIL"]}]

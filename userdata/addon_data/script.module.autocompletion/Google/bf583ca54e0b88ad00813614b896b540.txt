@@ -1,0 +1,1 @@
+["Bucas", ["bucasan", "bucaspor", "bucas", "bucasia", "bucas grande island", "bucas seafood", "bucas seafood menu", "bucastate", "bucas rugs", "bucasia cafe"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

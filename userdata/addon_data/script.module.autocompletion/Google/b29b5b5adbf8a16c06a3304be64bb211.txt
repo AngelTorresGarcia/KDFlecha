@@ -1,0 +1,1 @@
+["[COLOR hotpink] - Series[/COLOR]", ["color hotpink - series /color palette", "color hotpink - series /color /"], [], {"google:suggestsubtypes": [[10, 160], [10, 160]], "google:suggesttype": ["TAIL", "TAIL"]}]

@@ -1,0 +1,1 @@
+["[COLOR hotpink] B[/COLOR]", ["color hotpink b /color 12"], [], {"google:suggestsubtypes": [[10, 160]], "google:suggesttype": ["TAIL"]}]

@@ -1,0 +1,1 @@
+["Y", ["youtube", "yellowstone", "yahoo mail", "youtube music", "yahoo", "yeti", "young miko", "yoko", "yu", "young sheldon"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

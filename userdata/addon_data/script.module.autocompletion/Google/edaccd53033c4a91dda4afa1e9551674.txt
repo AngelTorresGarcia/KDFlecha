@@ -1,0 +1,1 @@
+["Buca", ["bucaneros", "bucatini", "bucaramanga", "buccaneers", "buchanan's", "bucalia", "bucana", "bucal", "bucaneros nfl", "bucanera"], [], {"google:suggestsubtypes": [[512], [512], [512], [512, 10], [512, 10], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

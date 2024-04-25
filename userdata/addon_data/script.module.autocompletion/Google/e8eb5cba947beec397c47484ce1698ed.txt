@@ -1,0 +1,1 @@
+["spe", ["speed test", "speedo", "specialized", "specialized colombia", "speech", "speed test google", "speed logic", "speedo colombia", "spectrum", "speaker"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

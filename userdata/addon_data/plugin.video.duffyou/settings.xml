@@ -1,0 +1,9 @@
+<settings version="2">
+    <setting id="default_quality" default="true">2</setting>
+    <setting id="region_code">MX</setting>
+    <setting id="download_path" default="true" />
+    <setting id="down_sub" default="true">false</setting>
+    <setting id="search_date" default="true">None</setting>
+    <setting id="search_duration" default="true">None</setting>
+    <setting id="search_sort_by" default="true">relevance</setting>
+</settings>

@@ -1,0 +1,1 @@
+["D", ["dhl", "diario de juarez", "dallas cowboys", "dolar hoy", "dominos", "disney plus", "dolar", "dollar to peso", "dillards", "dyson"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

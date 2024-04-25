@@ -1,0 +1,1 @@
+["sim", ["simo", "simit", "simat", "simon bolivar", "simple", "simulador de credito", "simulador credito hipotecario", "simpsonizados", "simeticona", "simp"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

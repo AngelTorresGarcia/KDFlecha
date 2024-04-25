@@ -1,0 +1,1 @@
+["Ba", ["bad bunny", "banorte", "bath and body works", "barcelona", "banamex", "bard", "barnes and noble", "barry keoghan", "barbie", "baltimore ravens"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

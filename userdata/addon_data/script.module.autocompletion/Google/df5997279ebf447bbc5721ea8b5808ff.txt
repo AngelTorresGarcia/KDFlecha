@@ -1,0 +1,1 @@
+["[COLOR ff694572]Buscar A[/COLOR]", ["buscar color por codigo", "color #ff00ff"], [], {"google:suggestsubtypes": [[512, 546], [512, 546]], "google:suggesttype": ["QUERY", "QUERY"]}]

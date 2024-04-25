@@ -1,0 +1,1 @@
+["Kd Feb", ["kd 14 de febrero", "kd review", "kd release dates"], [], {"google:suggestsubtypes": [[22, 30], [512, 650, 390], [512, 650, 390]], "google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

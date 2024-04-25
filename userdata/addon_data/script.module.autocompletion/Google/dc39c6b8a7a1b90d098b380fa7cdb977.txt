@@ -1,0 +1,1 @@
+["Backup Luar ", ["backup luar la l", "backup luar negeri", "backup luar negativo", "backup luar la l letra", "backup luar negatif"], [], {"google:suggestsubtypes": [[160], [160], [160], [160], [160]], "google:suggesttype": ["TAIL", "TAIL", "TAIL", "TAIL", "TAIL"]}]

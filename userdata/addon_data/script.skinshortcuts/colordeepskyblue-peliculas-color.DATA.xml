@@ -1,0 +1,74 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Buscar [COLOR deepskyblue]Película[/COLOR] 1</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.balandro%2fresources%2fmedia%2fthemes%2fdefault%2fclapboard.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJzZWFyY2giLAogICAgImNhdGVnb3J5IjogIkJ1c2NhciIsCiAgICAiY2hhbm5lbCI6ICJzZWFyY2giLAogICAgImluZm9MYWJlbHMiOiB7fSwKICAgICJwbG90IjogIkluZGljYXIgZWwgbm9tYnJlIGRlIHVuYSBwZWzDrWN1bGEgcGFyYSBidXNjYXJsYSBlbiBsb3MgY2FuYWxlcyBkZSBwZWzDrWN1bGFzIiwKICAgICJzZWFyY2hfdHlwZSI6ICJtb3ZpZSIsCiAgICAidGh1bWJuYWlsIjogIi9zdG9yYWdlL2VtdWxhdGVkLzAvQW5kcm9pZC9kYXRhL29yZy54Ym1jLmtvZGkvZmlsZXMvLmtvZGkvYWRkb25zL3BsdWdpbi52aWRlby5iYWxhbmRyby9yZXNvdXJjZXMvbWVkaWEvdGhlbWVzL2RlZmF1bHQvY2xhcGJvYXJkLnBuZyIsCiAgICAidGl0bGUiOiAiIC0gQnVzY2FyIFtDT0xPUiBkZWVwc2t5Ymx1ZV1QZWzDrWN1bGFbL0NPTE9SXSAuLi4iCn0%3D",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Buscar Película 2</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.alfa%2fresources%2fmedia%2fthemes%2fdefault%2fthumb_search.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJuZXdfc2VhcmNoIiwKICAgICJjaGFubmVsIjogInNlYXJjaCIsCiAgICAiY29udGV4dCI6IFsKICAgICAgICB7CiAgICAgICAgICAgICJhY3Rpb24iOiAic2V0dGluZ19jaGFubmVsX25ldyIsCiAgICAgICAgICAgICJjaGFubmVsIjogInNlYXJjaCIsCiAgICAgICAgICAgICJ0aXRsZSI6ICJFbGVnaXIgY2FuYWxlcyBpbmNsdWlkb3MiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICJhY3Rpb24iOiAic2V0dGluZ3MiLAogICAgICAgICAgICAiY2hhbm5lbCI6ICJzZWFyY2giLAogICAgICAgICAgICAidGl0bGUiOiAiW0NPTE9SIGdyZWVuXU90cm9zIGFqdXN0ZXNbL0NPTE9SXSIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgImFjdGlvbiI6ICJjbGVhcl9zYXZlZF9zZWFyY2hlcyIsCiAgICAgICAgICAgICJjaGFubmVsIjogInNlYXJjaCIsCiAgICAgICAgICAgICJ0aXRsZSI6ICJCb3JyYXIgYlx1MDBmYXNxdWVkYXMgZ3VhcmRhZGFzIgogICAgICAgIH0KICAgIF0sCiAgICAiaW5mb0xhYmVscyI6IHt9LAogICAgIm1vZGUiOiAibW92aWUiLAogICAgInRodW1ibmFpbCI6ICIvc3RvcmFnZS9lbXVsYXRlZC8wL0FuZHJvaWQvZGF0YS9vcmcueGJtYy5rb2RpL2ZpbGVzLy5rb2RpL2FkZG9ucy9wbHVnaW4udmlkZW8uYWxmYS9yZXNvdXJjZXMvbWVkaWEvdGhlbWVzL2RlZmF1bHQvdGh1bWJfc2VhcmNoLnBuZyIsCiAgICAidGl0bGUiOiAiQnVzY2FyIFBlbFx1MDBlZGN1bGFzIgp9",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[B][LOWERCASE][CAPITALIZE][COLOR white]buscar pelicula [COLOR lime]¡¡[COLOR gold]3[COLOR lime]!! [COLOR gold][/CAPITALIZE][/LOWERCASE][/B][/COLOR]</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fi.imgur.com%2fsLNFVk7.jpg/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.chopocine/?action=mega_busca&amp;title=%5BB%5D%5BLOWERCASE%5D%5BCAPITALIZE%5D%5BCOLOR+white%5Dmegabuscador+%5BCOLOR+lime%5D%C2%A1%C2%A1%5BCOLOR+gold%5Den+todas+las+webs+a+la+vez%5BCOLOR+lime%5D%21%21+%5BCOLOR+gold%5D%5B%2FCAPITALIZE%5D%5B%2FLOWERCASE%5D%5B%2FB%5D%5B%2FCOLOR%5D&amp;url=https%3A%2F%2Fdescargacineclasico.net%2F&amp;thumbnail=https%3A%2F%2Fi.imgur.com%2FsLNFVk7.jpg&amp;plot=&amp;extra=no&amp;page=",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.balandro</defaultID>
+		<label>Balandro</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Alfa</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.alfa%2fresources%2fmedia%2fthemes%2fdefault%2fthumb_channels_movie.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJmaWx0ZXJjaGFubmVscyIsCiAgICAiY2F0ZWdvcnkiOiAiUGVsXHUwMGVkY3VsYXMiLAogICAgImNoYW5uZWxfdHlwZSI6ICJtb3ZpZSIsCiAgICAiaW5mb0xhYmVscyI6IHt9LAogICAgIm1vZHVsZSI6ICJjaGFubmVsc2VsZWN0b3IiLAogICAgInRodW1ibmFpbCI6ICIvc3RvcmFnZS9lbXVsYXRlZC8wL0FuZHJvaWQvZGF0YS9vcmcueGJtYy5rb2RpL2ZpbGVzLy5rb2RpL2FkZG9ucy9wbHVnaW4udmlkZW8uYWxmYS9yZXNvdXJjZXMvbWVkaWEvdGhlbWVzL2RlZmF1bHQvdGh1bWJfY2hhbm5lbHNfbW92aWUucG5nIiwKICAgICJ0aXRsZSI6ICJQZWxcdTAwZWRjdWxhcyIsCiAgICAidmlld21vZGUiOiAidGh1bWJuYWlscyIKfQ%3D%3D",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.cristalazul</defaultID>
+		<label>[B][/B][COLOR aqua]CRISTAL AZUL[/COLOR]</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.cristalazul",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR blue][B]Peliculas[/B][/COLOR] [COLOR white][/COLOR]Sr Regio</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2flh3.googleusercontent.com%2f-VMUJNI0lXTg%2fX96RYdx6CdI%2fAAAAAAAAI94%2fZzILimptA8wZHiilqyg4YCqaJ3o_xodUACLcBGAsYHQ%2ficon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sr-regio5.0/?url=http%3A%2F%2Fsrregio.net%2F23so%2Fregioflix.m3u&amp;mode=1&amp;name=%5BCOLOR+blue%5D%5BB%5DPeliculas%5B%2FB%5D%5B%2FCOLOR%5D+%5BCOLOR+white%5D%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2Flh3.googleusercontent.com%2F-vlGmTIk0Ln8%2FX96RjMXv8jI%2FAAAAAAAAI98%2FB1gSXDp5LhIkW39BJVJ1r8ybbHSVaFx1QCLcBGAsYHQ%2Fabstract-polygonal-background-vector.jpg",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.chopocine</defaultID>
+		<label>[B][COLOR white]chopo[COLOR aqua]cine[/COLOR][/B]</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.chopocine",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR lime] &gt; [COLOR yellow]Magellan[/COLOR]</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fen%2fthumb%2f9%2f9a%2fFlag_of_Spain.svg%2f1280px-Flag_of_Spain.svg.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.Magellan_Matrix/?url=https%3A%2F%2Fpastebin.com%2Fraw%2F5jZTyKZP&amp;mode=1&amp;name=%5BCOLOR+lime%5D+%3E+%5BCOLOR+yellow%5DESPANHA%2FLATINOS+%5B%2FCOLOR%5D&amp;fanart=https%3A%2F%2Fcdn.wallpapersafari.com%2F36%2F28%2FTzvSKW.jpeg",return)</action>
+		</shortcut>
+	</shortcuts>

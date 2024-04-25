@@ -1,0 +1,1 @@
+["br", ["broncos", "bruce willis", "brock purdy", "breaking bad", "bruno mars", "bravos", "brisket", "brad pitt", "bradley cooper", "britney spears"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

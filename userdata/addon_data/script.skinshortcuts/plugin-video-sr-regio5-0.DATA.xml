@@ -1,0 +1,74 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>plugin.video.Magellan_Matrix</defaultID>
+		<label>[COLOR lime]Magellan[/COLOR]</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.Magellan_Matrix",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.KODIvertiDO</defaultID>
+		<label>[B][COLOR white]KODI[COLOR gold]verti[COLOR yellow]DO[/COLOR][/B]</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.KODIvertiDO",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.sr-regio5.0</defaultID>
+		<label>SrRegio</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.sr-regio5.0",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.latinohd</defaultID>
+		<label>Tele Latino HD</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.latinohd",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.tecnotv</defaultID>
+		<label>TECNOTV</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.tecnotv",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.the-loop</defaultID>
+		<label>The Loop</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.the-loop",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>LATINOS/ESPAÑA</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2f9%2f9d%2fFlag_of_Spain_and_Mexico.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.Magellan_Matrix/?url=https%3A%2F%2Fpastebin.com%2Fraw%2FSAvy86u2&amp;mode=1&amp;name=%5BCOLOR+lime%5Dmagellan%3E%5BCOLOR%3Dblue%5D%5BB%5D%5BI%5D1.Canales+Espa%C3%B1a%2FLatinos++++%28clic+%3E%3E%3E%3E+aqui%29%5B%2FI%5D%5B%2FB%5D%5B%2FCOLOR%5D&amp;fanart=http%3A%2F%2Fi.imgur.com%2FbcpZZ1S.png",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>AMERICA LATINA</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2f2.bp.blogspot.com%2f_XnsBmpz0kTI%2fTJPftDSYYZI%2fAAAAAAAAFOc%2fzQ5HI4JYZr8%2fs1600%2fLatinAmericanFlags.jpg/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.Magellan_Matrix/?url=https%3A%2F%2Fpastebin.com%2Fraw%2FDaN95t3V&amp;mode=1&amp;name=%5BCOLOR+lime%5Dmagellan%3E%5BCOLOR%3Dpink%5D%5BB%5D%5BI%5DA+M+%C3%89+R+I+C+A+++L+A+T+I+N+A+++%28clic+%3E%3E%3E%3E+aqui%29%5B%2FI%5D%5B%2FB%5D%5B%2FCOLOR%5D&amp;fanart=http%3A%2F%2Fi.imgur.com%2FbcpZZ1S.png",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Pluto Tv Mexico</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2f3%2f35%2fPluto_TV_logo_2020.svg%2f440px-Pluto_TV_logo_2020.svg.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.Magellan_Matrix/?url=https%3A%2F%2Fi.mjh.nz%2FPlutoTV%2Fmx.m3u8&amp;mode=1&amp;name=%5BCOLOR+lime%5Dmagellan%3E%5BCOLOR%3Dgreen%5D%5BB%5D%5BI%5DPluto+Tv+Mexico++%28clic+%3E%3E%3E%3E+aqui%29%5B%2FI%5D%5B%2FB%5D%5B%2FCOLOR%5D&amp;fanart=http%3A%2F%2Fi.imgur.com%2FbcpZZ1S.png",return)</action>
+		</shortcut>
+	</shortcuts>

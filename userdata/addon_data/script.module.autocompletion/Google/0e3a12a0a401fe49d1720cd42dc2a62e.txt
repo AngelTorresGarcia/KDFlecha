@@ -1,0 +1,1 @@
+["VideoDevil", ["videodevil not working", "videodevil (premium) apk v3.7.0", "videodevil 3.6.0 premium apk", "ilaveezhapoonchira review"], [], {"google:suggestsubtypes": [[512], [512], [512], [512, 650, 390]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY"]}]

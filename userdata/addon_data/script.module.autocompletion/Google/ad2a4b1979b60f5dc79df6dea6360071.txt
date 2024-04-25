@@ -1,0 +1,1 @@
+["Bucar jue", ["buscar juegos", "bucar juegos", "buscar juegos gratis", "buscar un juego", "nahunta hours", "koval hours"], [], {"google:suggestsubtypes": [[512, 19, 10], [22, 30, 19], [22, 30, 19, 10], [22, 30, 19, 10], [512, 650, 390], [512, 650, 390]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

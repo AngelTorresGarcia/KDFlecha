@@ -1,0 +1,1 @@
+[" - Buscar [COLOR deepskyblue]Pel\u00edcula[/COLOR] .", ["- buscar color deepskyblue pel\u00edcula /color .\u0000"], [], {"google:suggestsubtypes": [[160]], "google:suggesttype": ["TAIL"]}]

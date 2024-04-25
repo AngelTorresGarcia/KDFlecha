@@ -1,0 +1,1 @@
+["peliculas2", ["peliculas24", "peliculas 2023", "peliculas 2024", "peliculas21", "peliculas 2022", "peliculas2", "peliculas24 apk", "peliculas 2020"], [], {"google:suggestsubtypes": [[512], [512, 10], [512, 10], [512], [512, 10], [512], [512], [512, 10]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

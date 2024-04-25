@@ -1,0 +1,1 @@
+["F", ["facebook", "falabella", "farmatodo", "friv", "feliz cumplea\u00f1os", "fnaf", "flamingo", "fc barcelona", "flights", "five nights at freddy's"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

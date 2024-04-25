@@ -1,0 +1,1 @@
+["b", ["best buy", "bad bunny", "bath and body works", "barcelona", "billie eilish", "bts", "bershka", "bard", "bills", "bruce willis"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

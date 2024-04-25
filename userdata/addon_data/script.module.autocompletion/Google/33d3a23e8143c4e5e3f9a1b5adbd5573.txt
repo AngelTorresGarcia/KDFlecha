@@ -1,0 +1,1 @@
+["[COLOR hotpink] - Seri[/COLOR]", ["color hotpink - seri /color palette", "color hotpink - seri /color set", "color hotpink - seri /color dress"], [], {"google:suggestsubtypes": [[10, 160], [10, 160], [10, 160]], "google:suggesttype": ["TAIL", "TAIL", "TAIL"]}]

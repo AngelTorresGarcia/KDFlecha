@@ -1,0 +1,1 @@
+["PEL\u00b4ICU", ["peliculas", "peliculas gratis", "peliculas 2023", "pel iculas de terror", "pel iculas de accion", "pel\u00edculas del oeste", "mario bros pelicula"], [], {"google:suggestsubtypes": [[22, 30, 10], [22, 30, 10], [22, 30, 10], [22, 30], [22, 30], [22, 30, 10], [22, 30, 10]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

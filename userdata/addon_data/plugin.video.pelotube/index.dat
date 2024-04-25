@@ -1,0 +1,80 @@
+{
+    "Beeg": {
+        "active": true,
+        "label": "Beeg",
+        "sha": "87591b06814e0670de7eb63fa8712fe78cbd555f",
+        "version": "0.0.2"
+    },
+    "Cumlouder": {
+        "active": true,
+        "label": "Cumlouder",
+        "sha": "d2e97303893ceaadbe47b9c9d7528671af49915b",
+        "version": "0.0.3"
+    },
+    "PornHD": {
+        "active": false,
+        "label": "PornHD",
+        "sha": "5d8fb65adb031a0802da369bb8a887bbcfea71cb",
+        "version": "0.0.3"
+    },
+    "PornHub": {
+        "active": true,
+        "label": "PornHub",
+        "sha": "3960696e495e34efd12153fc6f1208b62807bf14",
+        "version": "0.0.3"
+    },
+    "PornTube": {
+        "active": true,
+        "label": "PornTube",
+        "sha": "ec312f37226e8d63ee90594a10b0000fa36a2a16",
+        "version": "0.0.3"
+    },
+    "RedTube": {
+        "active": false,
+        "label": "RedTube",
+        "sha": "f779883e93356e58c1db7f90c2ff63534e2b0aef",
+        "version": "0.0.3"
+    },
+    "animeidhentai": {
+        "active": true,
+        "label": "AnimeID Hentai",
+        "sha": "b0ffd489acf55ba798539318fc92a87c17f53f83",
+        "version": "0.0.3"
+    },
+    "artserotica": {
+        "active": false,
+        "label": "ArtsErotica",
+        "sha": "0f54457dcdaf555b26430f87f1db93c14959acb7",
+        "version": "0.0.3"
+    },
+    "bellesa": {
+        "active": true,
+        "label": "Bellesa",
+        "sha": "326ebe502569484b9b312fd734a21c6d7c762c03",
+        "version": "0.0.3"
+    },
+    "chaturbate": {
+        "active": true,
+        "label": "Chaturbate",
+        "sha": "b914d544bd17c6369abe8dc87a40df79c814e3de",
+        "version": "0.0.3"
+    },
+    "onlydudes": {
+        "active": true,
+        "label": "OnlyDudes",
+        "sha": "63f3ef74c91da70ec8373de3621971575b8f0a9f",
+        "version": "0.0.2"
+    },
+    "paradisehill": {
+        "active": true,
+        "label": "ParadiseHill",
+        "sha": "d5d11647337293dc8a2761c10e51fb5f3508bcfa",
+        "version": "0.0.3"
+    },
+    "xHamster": {
+        "active": true,
+        "label": "xHamster",
+        "sha": "2aca56a5e4ea065bc3531cf49b2c3a61858d0bd4",
+        "version": "0.0.3"
+    }
+}

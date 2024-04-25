@@ -1,0 +1,1 @@
+["R", ["reporte de puentes", "roblox", "real madrid", "ravens", "reddit", "restaurants near me", "ross", "rockstar", "rebel moon", "rockauto"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

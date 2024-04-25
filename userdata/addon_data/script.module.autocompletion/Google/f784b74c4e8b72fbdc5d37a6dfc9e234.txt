@@ -1,0 +1,1 @@
+["[B][/B][COLOR aqua]CRISTAL AZUL 3[/COLOR]", ["b /b color aqua cristal azul 3 /color 2", "b /b color aqua cristal azul 3 /color 1", "b /b color aqua cristal azul 3 /color 3", "b /b color aqua cristal azul 3 /color 4"], [], {"google:suggestsubtypes": [[160], [160], [160], [160]], "google:suggesttype": ["TAIL", "TAIL", "TAIL", "TAIL"]}]

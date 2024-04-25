@@ -1,0 +1,1 @@
+["t", ["traductor", "translate", "target", "taylor swift", "temu", "twitter", "tiktok", "ticketmaster", "travis kelce", "twitch"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["Do", ["don boleton", "dolar a peso", "dolar hoy", "dominos", "dolar", "dollar to peso", "dolar a peso mexicano", "dollar", "dollar tree", "don julio 70"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

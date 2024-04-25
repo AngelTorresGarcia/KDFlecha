@@ -1,0 +1,1 @@
+["Duff", ["duffle bag", "duff mckagan", "duff", "duffy", "duff beer", "duffer brothers", "duff meaning", "duff goldman", "duffel bags", "duffle"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

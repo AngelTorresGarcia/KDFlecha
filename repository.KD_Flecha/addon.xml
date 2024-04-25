@@ -1,0 +1,15 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.KD_Flecha" name="KD Flecha" version="1.0.0" provider-name="Kodi Flechashop">
+	<extension point="xbmc.addon.repository" name="KD Flecha">
+		<info compressed="false">https://github.com/AngelTorresGarcia/KDFlecha.git</info>
+		<checksum>https://github.com/AngelTorresGarcia/KDFlecha.git</checksum>
+		<datadir zip="true">https://github.com/AngelTorresGarcia/KDFlecha.git</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Kodi Flechashop</summary>
+   		<description lang="es">Este repositorio esta hecho de forma privada y no se autoriza su libre distribucion ni esta hecho con el fin de infringir derechos de autor.</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

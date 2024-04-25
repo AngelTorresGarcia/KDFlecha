@@ -1,0 +1,50 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label> Buscar [COLOR hotpink]Serie 1[/COLOR] ...</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.balandro%2fresources%2fmedia%2fthemes%2fdefault%2ftv.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJzZWFyY2giLAogICAgImNhdGVnb3J5IjogIkJ1c2NhciIsCiAgICAiY2hhbm5lbCI6ICJzZWFyY2giLAogICAgImluZm9MYWJlbHMiOiB7fSwKICAgICJwbG90IjogIkluZGljYXIgZWwgbm9tYnJlIGRlIHVuYSBzZXJpZSBwYXJhIGJ1c2NhcmxhIGVuIGxvcyBjYW5hbGVzIGRlIHNlcmllcyIsCiAgICAic2VhcmNoX3R5cGUiOiAidHZzaG93IiwKICAgICJ0aHVtYm5haWwiOiAiL3N0b3JhZ2UvZW11bGF0ZWQvMC9BbmRyb2lkL2RhdGEvb3JnLnhibWMua29kaS9maWxlcy8ua29kaS9hZGRvbnMvcGx1Z2luLnZpZGVvLmJhbGFuZHJvL3Jlc291cmNlcy9tZWRpYS90aGVtZXMvZGVmYXVsdC90di5wbmciLAogICAgInRpdGxlIjogIiAtIEJ1c2NhciBbQ09MT1IgaG90cGlua11TZXJpZVsvQ09MT1JdIC4uLiIKfQ%3D%3D",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Buscar Serie 2</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.alfa%2fresources%2fmedia%2fthemes%2fdefault%2fthumb_search_tvshow.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJuZXdfc2VhcmNoIiwKICAgICJjaGFubmVsIjogInNlYXJjaCIsCiAgICAiY29udGV4dCI6IFsKICAgICAgICB7CiAgICAgICAgICAgICJhY3Rpb24iOiAic2V0dGluZ19jaGFubmVsX25ldyIsCiAgICAgICAgICAgICJjaGFubmVsIjogInNlYXJjaCIsCiAgICAgICAgICAgICJ0aXRsZSI6ICJFbGVnaXIgY2FuYWxlcyBpbmNsdWlkb3MiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICJhY3Rpb24iOiAic2V0dGluZ3MiLAogICAgICAgICAgICAiY2hhbm5lbCI6ICJzZWFyY2giLAogICAgICAgICAgICAidGl0bGUiOiAiW0NPTE9SIGdyZWVuXU90cm9zIGFqdXN0ZXNbL0NPTE9SXSIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgImFjdGlvbiI6ICJjbGVhcl9zYXZlZF9zZWFyY2hlcyIsCiAgICAgICAgICAgICJjaGFubmVsIjogInNlYXJjaCIsCiAgICAgICAgICAgICJ0aXRsZSI6ICJCb3JyYXIgYlx1MDBmYXNxdWVkYXMgZ3VhcmRhZGFzIgogICAgICAgIH0KICAgIF0sCiAgICAiaW5mb0xhYmVscyI6IHt9LAogICAgIm1vZGUiOiAidHZzaG93IiwKICAgICJ0aHVtYm5haWwiOiAiL3N0b3JhZ2UvZW11bGF0ZWQvMC9BbmRyb2lkL2RhdGEvb3JnLnhibWMua29kaS9maWxlcy8ua29kaS9hZGRvbnMvcGx1Z2luLnZpZGVvLmFsZmEvcmVzb3VyY2VzL21lZGlhL3RoZW1lcy9kZWZhdWx0L3RodW1iX3NlYXJjaF90dnNob3cucG5nIiwKICAgICJ0aXRsZSI6ICJCdXNjYXIgU2VyaWVzIgp9",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[B][LOWERCASE][CAPITALIZE][COLOR white]buscar serie [COLOR lime]¡¡[COLOR gold]3[COLOR lime][/CAPITALIZE][/LOWERCASE][/B][/COLOR]</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fi.imgur.com%2fsLNFVk7.jpg/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.choposeries/?action=mega_buscador&amp;title=%5BB%5D%5BLOWERCASE%5D%5BCAPITALIZE%5D%5BCOLOR+white%5Dmegabuscador+%5BCOLOR+lime%5D%C2%A1%C2%A1%5BCOLOR+gold%5Den+todas+las+webs+a+la+vez%5BCOLOR+lime%5D%5B%2FCAPITALIZE%5D%5B%2FLOWERCASE%5D%5B%2FB%5D%5B%2FCOLOR%5D&amp;url=&amp;thumbnail=https%3A%2F%2Fi.imgur.com%2FsLNFVk7.jpg&amp;plot=1&amp;extra=si&amp;page=0",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR hotpink] Balandro[/COLOR]</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.balandro%2fresources%2fmedia%2fthemes%2fdefault%2ftv.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJjaGFubmVscyIsCiAgICAiY2F0ZWdvcnkiOiAiQmFsYW5kcm8iLAogICAgImNoYW5uZWwiOiAibWFpbm1lbnUiLAogICAgImV4dHJhIjogInR2c2hvd3MiLAogICAgImluZm9MYWJlbHMiOiB7fSwKICAgICJ0aHVtYm5haWwiOiAiL3N0b3JhZ2UvZW11bGF0ZWQvMC9BbmRyb2lkL2RhdGEvb3JnLnhibWMua29kaS9maWxlcy8ua29kaS9hZGRvbnMvcGx1Z2luLnZpZGVvLmJhbGFuZHJvL3Jlc291cmNlcy9tZWRpYS90aGVtZXMvZGVmYXVsdC90di5wbmciLAogICAgInRpdGxlIjogIltDT0xPUiBob3RwaW5rXSAtIFNlcmllc1svQ09MT1JdIgp9",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Alfa</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.alfa%2fresources%2fmedia%2fthemes%2fdefault%2fthumb_channels_tvshow.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJmaWx0ZXJjaGFubmVscyIsCiAgICAiY2F0ZWdvcnkiOiAiU2VyaWVzIiwKICAgICJjaGFubmVsX3R5cGUiOiAidHZzaG93IiwKICAgICJpbmZvTGFiZWxzIjoge30sCiAgICAibW9kdWxlIjogImNoYW5uZWxzZWxlY3RvciIsCiAgICAidGh1bWJuYWlsIjogIi9zdG9yYWdlL2VtdWxhdGVkLzAvQW5kcm9pZC9kYXRhL29yZy54Ym1jLmtvZGkvZmlsZXMvLmtvZGkvYWRkb25zL3BsdWdpbi52aWRlby5hbGZhL3Jlc291cmNlcy9tZWRpYS90aGVtZXMvZGVmYXVsdC90aHVtYl9jaGFubmVsc190dnNob3cucG5nIiwKICAgICJ0aXRsZSI6ICJTZXJpZXMiLAogICAgInZpZXdtb2RlIjogInRodW1ibmFpbHMiCn0%3D",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.choposeries</defaultID>
+		<label>[B][COLOR white]chopo[COLOR gold]series[/COLOR][/B]</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.choposeries",return)</action>
+		</shortcut>
+	</shortcuts>

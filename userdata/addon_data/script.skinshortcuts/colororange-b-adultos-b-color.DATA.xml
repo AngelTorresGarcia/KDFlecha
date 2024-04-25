@@ -1,0 +1,18 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>plugin.video.videodevil</defaultID>
+		<label>VideoDevil</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.videodevil",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.pelotube</defaultID>
+		<label>Pelo Tube</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.pelotube",return)</action>
+		</shortcut>
+	</shortcuts>

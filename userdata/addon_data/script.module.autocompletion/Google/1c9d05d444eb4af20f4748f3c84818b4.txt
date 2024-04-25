@@ -1,0 +1,1 @@
+["[COLOR firebrick][B]Buscar Dorama [/B][/COLOR]", ["color firebrick b buscar dorama /b /color #", "color firebrick b buscar dorama /b /color 2"], [], {"google:suggestsubtypes": [[160], [160]], "google:suggesttype": ["TAIL", "TAIL"]}]

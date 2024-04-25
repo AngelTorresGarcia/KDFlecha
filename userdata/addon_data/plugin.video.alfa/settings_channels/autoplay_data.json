@@ -1,0 +1,336 @@
+{
+    "AUTOPLAY": {
+        "AUTOPLAY": {},
+        "asialiveaction": {
+            "quality": [
+                "default"
+            ],
+            "servers": [
+                "gvideo",
+                "openload",
+                "streamango"
+            ],
+            "settings": {
+                "active": false,
+                "custom_quality": false,
+                "custom_servers": false,
+                "plan_b": true,
+                "priority": 0,
+                "quality_1": 0,
+                "quality_2": 0,
+                "quality_3": 0,
+                "server_1": 0,
+                "server_2": 1,
+                "server_3": 2
+            }
+        },
+        "community": {
+            "quality": [
+                "SD",
+                "720",
+                "1080",
+                "4k",
+                "default"
+            ],
+            "servers": [
+                "directo"
+            ],
+            "settings": {
+                "active": false,
+                "custom_quality": false,
+                "custom_servers": false,
+                "plan_b": true,
+                "priority": 0,
+                "quality_1": 0,
+                "quality_2": 1,
+                "quality_3": 2,
+                "server_1": 0,
+                "server_2": 0,
+                "server_3": 0
+            }
+        },
+        "cuevana2espanol": {
+            "quality": [
+                "BluRay",
+                "1080p",
+                "HD",
+                "Rip",
+                "MicroHD",
+                "720p",
+                "2160p",
+                "4K",
+                "3D",
+                "RHDTV",
+                "DVDSCR",
+                "DVDR",
+                "CAM",
+                "Screener",
+                "TS",
+                "HDTV-720p",
+                "HDTV",
+                "WEB-DL 1080p",
+                "4KWebRip",
+                "default"
+            ],
+            "servers": [
+                "streamtape",
+                "doodstream",
+                "okru",
+                "streamsb",
+                "streamlare",
+                "wolfstream",
+                "voe",
+                "mega",
+                "torrent"
+            ],
+            "settings": {
+                "active": false,
+                "custom_quality": false,
+                "custom_servers": false,
+                "plan_b": true,
+                "priority": 0,
+                "quality_1": 0,
+                "quality_2": 1,
+                "quality_3": 2,
+                "server_1": 0,
+                "server_2": 1,
+                "server_3": 2
+            }
+        },
+        "entrepeliculasyseries": {
+            "quality": [
+                "BluRay",
+                "1080p",
+                "HD",
+                "Rip",
+                "MicroHD",
+                "720p",
+                "2160p",
+                "4K",
+                "3D",
+                "RHDTV",
+                "DVDSCR",
+                "DVDR",
+                "CAM",
+                "Screener",
+                "TS",
+                "HDTV-720p",
+                "HDTV",
+                "WEB-DL 1080p",
+                "4KWebRip",
+                "default"
+            ],
+            "servers": [
+                "streamtape",
+                "doodstream",
+                "okru",
+                "streamsb",
+                "streamlare",
+                "wolfstream",
+                "voe",
+                "mega",
+                "torrent"
+            ],
+            "settings": {
+                "active": false,
+                "custom_quality": false,
+                "custom_servers": false,
+                "plan_b": true,
+                "priority": 0,
+                "quality_1": 0,
+                "quality_2": 1,
+                "quality_3": 2,
+                "server_1": 0,
+                "server_2": 1,
+                "server_3": 2
+            }
+        },
+        "estrenosdoramas": {
+            "quality": [
+                "default"
+            ],
+            "servers": [
+                "openload",
+                "streamango",
+                "netutv",
+                "okru",
+                "mp4upload"
+            ],
+            "settings": {
+                "active": false,
+                "custom_quality": false,
+                "custom_servers": false,
+                "plan_b": true,
+                "priority": 0,
+                "quality_1": 0,
+                "quality_2": 0,
+                "quality_3": 0,
+                "server_1": 0,
+                "server_2": 1,
+                "server_3": 2
+            }
+        },
+        "pelispedia": {
+            "quality": [
+                "BluRay",
+                "1080p",
+                "HD",
+                "Rip",
+                "MicroHD",
+                "720p",
+                "2160p",
+                "4K",
+                "3D",
+                "RHDTV",
+                "DVDSCR",
+                "DVDR",
+                "CAM",
+                "Screener",
+                "TS",
+                "HDTV-720p",
+                "HDTV",
+                "WEB-DL 1080p",
+                "4KWebRip",
+                "default"
+            ],
+            "servers": [
+                "streamtape",
+                "doodstream",
+                "okru",
+                "streamsb",
+                "streamlare",
+                "wolfstream",
+                "voe",
+                "mega",
+                "torrent"
+            ],
+            "settings": {
+                "active": false,
+                "custom_quality": false,
+                "custom_servers": false,
+                "plan_b": true,
+                "priority": 0,
+                "quality_1": 0,
+                "quality_2": 1,
+                "quality_3": 2,
+                "server_1": 0,
+                "server_2": 1,
+                "server_3": 2
+            }
+        },
+        "poseidonhd": {
+            "quality": [
+                "BluRay",
+                "1080p",
+                "HD",
+                "Rip",
+                "MicroHD",
+                "720p",
+                "2160p",
+                "4K",
+                "3D",
+                "RHDTV",
+                "DVDSCR",
+                "DVDR",
+                "CAM",
+                "Screener",
+                "TS",
+                "HDTV-720p",
+                "HDTV",
+                "WEB-DL 1080p",
+                "4KWebRip",
+                "default"
+            ],
+            "servers": [
+                "streamtape",
+                "doodstream",
+                "okru",
+                "streamsb",
+                "streamlare",
+                "wolfstream",
+                "voe",
+                "mega",
+                "torrent"
+            ],
+            "settings": {
+                "active": false,
+                "custom_quality": false,
+                "custom_servers": false,
+                "plan_b": true,
+                "priority": 0,
+                "quality_1": 0,
+                "quality_2": 1,
+                "quality_3": 2,
+                "server_1": 0,
+                "server_2": 1,
+                "server_3": 2
+            }
+        },
+        "tvanime": {
+            "quality": [
+                "default"
+            ],
+            "servers": [
+                "directo",
+                "fembed",
+                "streamtape",
+                "uqload",
+                "okru",
+                "streamsb"
+            ],
+            "settings": {
+                "active": false,
+                "custom_quality": false,
+                "custom_servers": false,
+                "plan_b": true,
+                "priority": 0,
+                "quality_1": 0,
+                "quality_2": 0,
+                "quality_3": 0,
+                "server_1": 0,
+                "server_2": 1,
+                "server_3": 2
+            }
+        },
+        "yts": {
+            "quality": [
+                "BluRay",
+                "1080p",
+                "HD",
+                "Rip",
+                "MicroHD",
+                "720p",
+                "2160p",
+                "4K",
+                "3D",
+                "RHDTV",
+                "DVDSCR",
+                "DVDR",
+                "CAM",
+                "Screener",
+                "TS",
+                "HDTV-720p",
+                "HDTV",
+                "WEB-DL 1080p",
+                "4KWebRip",
+                "default"
+            ],
+            "servers": [
+                "torrent"
+            ],
+            "settings": {
+                "active": false,
+                "custom_quality": false,
+                "custom_servers": false,
+                "plan_b": true,
+                "priority": 0,
+                "quality_1": 0,
+                "quality_2": 1,
+                "quality_3": 2,
+                "server_1": 0,
+                "server_2": 0,
+                "server_3": 0
+            }
+        }
+    }
+}

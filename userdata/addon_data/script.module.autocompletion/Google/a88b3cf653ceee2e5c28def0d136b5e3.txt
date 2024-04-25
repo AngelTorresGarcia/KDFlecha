@@ -1,0 +1,1 @@
+["Adult", ["adult swim", "adulting", "adulterio", "adultery meaning", "adultez", "adulto mayor", "adulterio significado", "adult", "adultery", "adultos"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

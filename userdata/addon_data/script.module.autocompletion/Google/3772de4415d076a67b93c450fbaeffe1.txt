@@ -1,0 +1,1 @@
+["[COLOR lime] > [COLOR yellow]ESPANHA/LATIN[/COLOR]", ["color lime color yellow espanha/latin /color palette", "color lime color yellow espanha/latin /color 1", "color lime color yellow espanha/latin /color 2", "color lime color yellow espanha/latin /color 4"], [], {"google:suggestsubtypes": [[160], [160], [160], [160]], "google:suggesttype": ["TAIL", "TAIL", "TAIL", "TAIL"]}]

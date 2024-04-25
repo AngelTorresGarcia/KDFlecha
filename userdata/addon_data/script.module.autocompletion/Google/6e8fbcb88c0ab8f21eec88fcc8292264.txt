@@ -1,0 +1,1 @@
+["[COLOR hotpink] Balandro[/COLOR]", ["color hotpink balandro /color 4", "color hotpink balandro /color 3d", "color hotpink balandro /color 2", "color hotpink balandro /color 1", "color hotpink balandro /color /"], [], {"google:suggestsubtypes": [[10, 160], [10, 160], [10, 160], [10, 160], [10, 160]], "google:suggesttype": ["TAIL", "TAIL", "TAIL", "TAIL", "TAIL"]}]

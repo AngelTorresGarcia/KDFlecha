@@ -1,0 +1,1 @@
+["FAV", ["fav", "favo", "favicon", "favorite crime olivia rodrigo", "favorite", "favela", "favor", "facebook", "favicon generator", "favourite"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512, 10], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

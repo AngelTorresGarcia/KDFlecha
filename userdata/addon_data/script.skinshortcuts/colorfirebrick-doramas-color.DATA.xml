@@ -1,0 +1,26 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR firebrick][B]Buscar Doramas 1[/B][/COLOR]</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.balandro%2fresources%2fmedia%2fthemes%2fdefault%2fcomputer.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJzZWFyY2giLAogICAgImNhdGVnb3J5IjogIlNvbG8gbG9zIENhbmFsZXMgZXhjbHVzaXZvcyBkZSBEb3JhbWFzIiwKICAgICJjaGFubmVsIjogInNlYXJjaCIsCiAgICAiaW5mb0xhYmVscyI6IHt9LAogICAgInNlYXJjaF9zcGVjaWFsIjogImRvcmFtYSIsCiAgICAic2VhcmNoX3R5cGUiOiAiYWxsIiwKICAgICJ0aHVtYm5haWwiOiAiL3N0b3JhZ2UvZW11bGF0ZWQvMC9BbmRyb2lkL2RhdGEvb3JnLnhibWMua29kaS9maWxlcy8ua29kaS9hZGRvbnMvcGx1Z2luLnZpZGVvLmJhbGFuZHJvL3Jlc291cmNlcy9tZWRpYS90aGVtZXMvZGVmYXVsdC9jb21wdXRlci5wbmciLAogICAgInRpdGxlIjogIltDT0xPUiBmaXJlYnJpY2tdW0JdQnVzY2FyIERvcmFtYSAuLi5bL0JdWy9DT0xPUl0iCn0%3D",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Buscar Doramas 2</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.alfa%2fresources%2fmedia%2fthemes%2fdefault%2fthumb_search_generic.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJuZXdfc2VhcmNoIiwKICAgICJjaGFubmVsIjogInNlYXJjaCIsCiAgICAiY29udGV4dCI6IFsKICAgICAgICB7CiAgICAgICAgICAgICJhY3Rpb24iOiAic2V0dGluZ19jaGFubmVsX25ldyIsCiAgICAgICAgICAgICJjaGFubmVsIjogInNlYXJjaCIsCiAgICAgICAgICAgICJ0aXRsZSI6ICJFbGVnaXIgY2FuYWxlcyBpbmNsdWlkb3MiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICJhY3Rpb24iOiAic2V0dGluZ3MiLAogICAgICAgICAgICAiY2hhbm5lbCI6ICJzZWFyY2giLAogICAgICAgICAgICAidGl0bGUiOiAiW0NPTE9SIGdyZWVuXU90cm9zIGFqdXN0ZXNbL0NPTE9SXSIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgImFjdGlvbiI6ICJjbGVhcl9zYXZlZF9zZWFyY2hlcyIsCiAgICAgICAgICAgICJjaGFubmVsIjogInNlYXJjaCIsCiAgICAgICAgICAgICJ0aXRsZSI6ICJCb3JyYXIgYlx1MDBmYXNxdWVkYXMgZ3VhcmRhZGFzIgogICAgICAgIH0KICAgIF0sCiAgICAiaW5mb0xhYmVscyI6IHt9LAogICAgIm1vZGUiOiAiYWxsIiwKICAgICJ0aHVtYm5haWwiOiAiL3N0b3JhZ2UvZW11bGF0ZWQvMC9BbmRyb2lkL2RhdGEvb3JnLnhibWMua29kaS9maWxlcy8ua29kaS9hZGRvbnMvcGx1Z2luLnZpZGVvLmFsZmEvcmVzb3VyY2VzL21lZGlhL3RoZW1lcy9kZWZhdWx0L3RodW1iX3NlYXJjaF9nZW5lcmljLnBuZyIsCiAgICAidGl0bGUiOiAiQnVzY2FyIHBvciB0aXR1bG8iCn0%3D",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR deepskyblue]Buscar película Doramas[/COLOR]</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.balandro%2fresources%2fmedia%2fchannels%2fthumb%2fdoramasflix.jpg/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgIl90eXBlIjogInNlYXJjaCIsCiAgICAiYWN0aW9uIjogInNlYXJjaCIsCiAgICAiY2F0ZWdvcnkiOiAiRG9yYW1hc0ZsaXgiLAogICAgImNoYW5uZWwiOiAiZG9yYW1hc2ZsaXgiLAogICAgImluZm9MYWJlbHMiOiB7fSwKICAgICJwbG90IjogIltDYXN0ZWxsYW5vLCBMYXRpbm8sIFZvc2VdW0NSXVtDUl1XZWIgZGVkaWNhZGEgZXhjbHVzaXZhbWVudGUgYWwgZG9yYW1hIiwKICAgICJzZWFyY2hfdHlwZSI6ICJtb3ZpZSIsCiAgICAidGh1bWJuYWlsIjogIi9zdG9yYWdlL2VtdWxhdGVkLzAvQW5kcm9pZC9kYXRhL29yZy54Ym1jLmtvZGkvZmlsZXMvLmtvZGkvYWRkb25zL3BsdWdpbi52aWRlby5iYWxhbmRyby9yZXNvdXJjZXMvbWVkaWEvY2hhbm5lbHMvdGh1bWIvZG9yYW1hc2ZsaXguanBnIiwKICAgICJ0aXRsZSI6ICJbQ09MT1IgZGVlcHNreWJsdWVdQnVzY2FyIHBlbMOtY3VsYSAuLi5bL0NPTE9SXSIKfQ%3D%3D",return)</action>
+		</shortcut>
+	</shortcuts>

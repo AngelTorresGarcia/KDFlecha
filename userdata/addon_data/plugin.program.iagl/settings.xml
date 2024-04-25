@@ -1,0 +1,72 @@
+<settings version="2">
+    <setting id="iagl_setting_archive_listings" default="true">0</setting>
+    <setting id="iagl_setting_listing" default="true">1</setting>
+    <setting id="iagl_setting_naming" default="true">0</setting>
+    <setting id="iagl_setting_clean_list" default="true">false</setting>
+    <setting id="iagl_setting_items_pp" default="true">12</setting>
+    <setting id="iagl_setting_history" default="true">10</setting>
+    <setting id="iagl_setting_localfile_action" default="true">1</setting>
+    <setting id="iagl_setting_default_action" default="true">2</setting>
+    <setting id="iagl_setting_filter_to_1g1r" default="true">1</setting>
+    <setting id="iagl_setting_autoplay_trailer" default="true">1</setting>
+    <setting id="iagl_setting_include_all_art" default="true">0</setting>
+    <setting id="iagl_setting_poster_thumb" default="true">0</setting>
+    <setting id="iagl_append_emu_name_to_results" default="true">0</setting>
+    <setting id="iagl_enable_list_sharing" default="true">0</setting>
+    <setting id="iagl_setting_dl_cache" default="true">0</setting>
+    <setting id="iagl_setting_enable_login" default="true">1</setting>
+    <setting id="iagl_setting_ia_username" default="true" />
+    <setting id="iagl_setting_ia_password" default="true" />
+    <setting id="iagl_external_user_external_env" default="true">0</setting>
+    <setting id="iagl_external_launch_close_kodi" default="true">1</setting>
+    <setting id="iagl_external_launch_pause_kodi" default="true">1</setting>
+    <setting id="iagl_external_path_to_retroarch" default="true" />
+    <setting id="iagl_external_path_to_retroarch_system_dir" default="true" />
+    <setting id="iagl_external_path_to_retroarch_cfg" default="true" />
+    <setting id="iagl_external_additional_emulator_1_type" default="true">6</setting>
+    <setting id="iagl_external_additional_emulator_1_path" default="true" />
+    <setting id="iagl_external_additional_emulator_2_type" default="true">6</setting>
+    <setting id="iagl_external_additional_emulator_2_path" default="true" />
+    <setting id="iagl_external_additional_emulator_3_type" default="true">6</setting>
+    <setting id="iagl_external_additional_emulator_3_path" default="true" />
+    <setting id="iagl_netplay_nickname" default="true">Kodi Player 1</setting>
+    <setting id="iagl_discord_id" default="true" />
+    <setting id="iagl_netplay_enable_netplay_launch">1</setting>
+    <setting id="iagl_netplay_netplay_launch_choose" default="true">0</setting>
+    <setting id="iagl_netplay_use_relay" default="true">0</setting>
+    <setting id="iagl_netplay_show_netplay_lobby">1</setting>
+    <setting id="iagl_netplay_announce_netplay" default="true">0</setting>
+    <setting id="iagl_netplay_filter_lobby" default="true">0</setting>
+    <setting id="iagl_netplay_port" default="true" />
+    <setting id="iagl_default_manual_ip" default="true" />
+    <setting id="iagl_netplay_frames" default="true" />
+    <setting id="iagl_enable_forced_views" default="true">1</setting>
+    <setting id="iagl_enable_forced_views_1" default="true">0</setting>
+    <setting id="iagl_enable_forced_views_2" default="true">0</setting>
+    <setting id="iagl_enable_forced_views_3" default="true">0</setting>
+    <setting id="iagl_enable_forced_views_4" default="true">0</setting>
+    <setting id="iagl_enable_forced_views_5" default="true">0</setting>
+    <setting id="iagl_enable_forced_views_6" default="true">0</setting>
+    <setting id="iagl_enable_forced_views_7" default="true">0</setting>
+    <setting id="iagl_enable_forced_views_8" default="true">0</setting>
+    <setting id="iagl_enable_forced_views_9" default="true">0</setting>
+    <setting id="iagl_enable_forced_views_10" default="true">0</setting>
+    <setting id="iagl_enable_forced_views_11" default="true">0</setting>
+    <setting id="iagl_enable_forced_views_12" default="true">0</setting>
+    <setting id="iagl_enable_forced_views_13" default="true">0</setting>
+    <setting id="iagl_run_wizard">false</setting>
+    <setting id="iagl_wizard_launcher_report" default="true">1</setting>
+    <setting id="iagl_silence_query_warning" default="true">1</setting>
+    <setting id="iagl_enable_post_dl_edit" default="true">1</setting>
+    <setting id="iagl_organize_temp_files" default="true">1</setting>
+    <setting id="iagl_enable_android_startactivity" default="true">0</setting>
+    <setting id="iagl_suspend_audio_and_input" default="true">0</setting>
+    <setting id="iagl_enable_stop_media_before_launch" default="true">0</setting>
+    <setting id="iagl_enable_wait_for_return" default="true">0</setting>
+    <setting id="iagl_setting_setcontent" default="true">1</setting>
+    <setting id="iagl_max_download_threads" default="true">5</setting>
+    <setting id="iagl_copy_network_to_local" default="true">1</setting>
+    <setting id="iagl_hidden_bool_warn_size" default="true">true</setting>
+    <setting id="iagl_hidden_bool_tou">true</setting>
+    <setting id="iagl_hidden_bool_warn_retroarch_sys_dir" default="true">true</setting>
+</settings>

@@ -1,0 +1,157 @@
+{
+  "hash": "9b48666687031b5f840f686be46efbe00a91c1367374b3b61681db35b0ac8577",
+  "timestamp": 1690422721.0963764,
+  "results": [
+    {
+      "service_name": "opensubtitles",
+      "service": "OpenSubtitles",
+      "lang": "Spanish",
+      "name": "Ted.Lasso.S01E08.The.Diamond.Dogs.1080p.ATVP.WEB-DL.DDP5.1.H264-NTb.srt",
+      "rating": 0,
+      "lang_code": "es",
+      "sync": "false",
+      "impaired": "false",
+      "color": "springgreen",
+      "action_args": {
+        "url": "https://dl.opensubtitles.org/en/download/src-api/vrf-f5550bb7/sub/8356251",
+        "lang": "Spanish",
+        "filename": "Ted.Lasso.S01E08.The.Diamond.Dogs.1080p.ATVP.WEB-DL.DDP5.1.H264-NTb.srt"
+      }
+    },
+    {
+      "service_name": "subscene",
+      "service": "Subscene",
+      "lang": "English",
+      "name": "Ted.Lasso.S01E08.1080p.WEB.H264-VIDEOHOLE.srt",
+      "rating": 0,
+      "lang_code": "en",
+      "sync": "false",
+      "impaired": "false",
+      "color": "dodgerblue",
+      "action_args": {
+        "url": "https://subscene.com/subtitles/ted-lasso-first-season/english/2292853",
+        "lang": "english",
+        "filename": "Ted.Lasso.S01E08.1080p.WEB.H264-VIDEOHOLE.srt",
+        "episodeid": "s01e08"
+      }
+    },
+    {
+      "service_name": "subscene",
+      "service": "Subscene",
+      "lang": "English",
+      "name": "Ted.Lasso.S01.NORDiC.1080p.WEB-DL.H.264.DD+Atmos5.1-TWASERiES.srt",
+      "rating": 0,
+      "lang_code": "en",
+      "sync": "false",
+      "impaired": "false",
+      "color": "dodgerblue",
+      "action_args": {
+        "url": "https://subscene.com/subtitles/ted-lasso-first-season/english/2399756",
+        "lang": "english",
+        "filename": "Ted.Lasso.S01.NORDiC.1080p.WEB-DL.H.264.DD+Atmos5.1-TWASERiES.srt",
+        "episodeid": "s01e08"
+      }
+    },
+    {
+      "service_name": "podnadpisi",
+      "service": "Podnadpisi",
+      "lang": "English",
+      "name": "Ted.Lasso.S01E08.WEB-DL.x264-ION10.srt",
+      "rating": 0,
+      "lang_code": "en",
+      "sync": "false",
+      "impaired": "false",
+      "color": "orange",
+      "action_args": {
+        "url": "https://www.podnapisi.net/en/subtitles/en-ted-lasso-2020-S01E08-O-all-apologies/-pJG/download",
+        "lang": "English",
+        "filename": "Ted.Lasso.S01E08.WEB-DL.x264-ION10.srt"
+      }
+    },
+    {
+      "service_name": "subscene",
+      "service": "Subscene",
+      "lang": "English",
+      "name": "Ted.Lasso.S01.Complete.WEB-DL.SRT.srt",
+      "rating": 0,
+      "lang_code": "en",
+      "sync": "false",
+      "impaired": "false",
+      "color": "dodgerblue",
+      "action_args": {
+        "url": "https://subscene.com/subtitles/ted-lasso-first-season/english/2310153",
+        "lang": "english",
+        "filename": "Ted.Lasso.S01.Complete.WEB-DL.SRT.srt",
+        "episodeid": "s01e08"
+      }
+    },
+    {
+      "service_name": "addic7ed",
+      "service": "Addic7ed",
+      "lang": "English",
+      "name": "Ted Lasso.S01E08.VIDEOHOLE+ION10.srt",
+      "rating": 0,
+      "lang_code": "en",
+      "sync": "false",
+      "impaired": "true",
+      "color": "deepskyblue",
+      "action_args": {
+        "url": "https://www.addic7ed.com/updated/1/160385/1",
+        "lang": "English",
+        "filename": "Ted Lasso.S01E08.VIDEOHOLE+ION10.srt",
+        "referer": "https://www.addic7ed.com/serie/Ted_Lasso/1/8/The_Diamond_Dogs",
+        "raw": true
+      }
+    },
+    {
+      "service_name": "addic7ed",
+      "service": "Addic7ed",
+      "lang": "English",
+      "name": "Ted Lasso.S01E08.VIDEOHOLE+ION10.srt",
+      "rating": 0,
+      "lang_code": "en",
+      "sync": "false",
+      "impaired": "false",
+      "color": "deepskyblue",
+      "action_args": {
+        "url": "https://www.addic7ed.com/updated/1/160385/0",
+        "lang": "English",
+        "filename": "Ted Lasso.S01E08.VIDEOHOLE+ION10.srt",
+        "referer": "https://www.addic7ed.com/serie/Ted_Lasso/1/8/The_Diamond_Dogs",
+        "raw": true
+      }
+    },
+    {
+      "service_name": "opensubtitles",
+      "service": "OpenSubtitles",
+      "lang": "English",
+      "name": "Ted.Lasso.S01E08.The.Diamond.Dogs.1080p.ATVP.WEB-DL.DDP5.1.H264-NTb.srt",
+      "rating": 0,
+      "lang_code": "en",
+      "sync": "false",
+      "impaired": "true",
+      "color": "springgreen",
+      "action_args": {
+        "url": "https://dl.opensubtitles.org/en/download/src-api/vrf-f5630bbc/sub/8355932",
+        "lang": "English",
+        "filename": "Ted.Lasso.S01E08.The.Diamond.Dogs.1080p.ATVP.WEB-DL.DDP5.1.H264-NTb.srt"
+      }
+    },
+    {
+      "service_name": "opensubtitles",
+      "service": "OpenSubtitles",
+      "lang": "English",
+      "name": "Ted.Lasso.S01E08.The.Diamond.Dogs.1080p.ATVP.WEB-DL.DDP5.1.H264-NTb.srt",
+      "rating": 0,
+      "lang_code": "en",
+      "sync": "false",
+      "impaired": "false",
+      "color": "springgreen",
+      "action_args": {
+        "url": "https://dl.opensubtitles.org/en/download/src-api/vrf-f5620bbb/sub/8355931",
+        "lang": "English",
+        "filename": "Ted.Lasso.S01E08.The.Diamond.Dogs.1080p.ATVP.WEB-DL.DDP5.1.H264-NTb.srt"
+      }
+    }
+  ]
+}

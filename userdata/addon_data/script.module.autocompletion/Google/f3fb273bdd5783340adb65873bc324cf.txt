@@ -1,0 +1,1 @@
+["[COLOR deepskyblue]Buscar pel\u00edcula Dorama[/COLOR]", ["color deepskyblue buscar pel\u00edcula dorama /color /", "color deepskyblue buscar pel\u00edcula dorama /color 2", "color deepskyblue buscar pel\u00edcula dorama /color 1"], [], {"google:suggestsubtypes": [[10, 160], [10, 160], [10, 160]], "google:suggesttype": ["TAIL", "TAIL", "TAIL"]}]

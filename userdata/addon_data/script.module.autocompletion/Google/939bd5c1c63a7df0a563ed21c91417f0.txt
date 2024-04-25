@@ -1,0 +1,1 @@
+["Ad", ["adidas", "adres", "addi", "adidas colombia", "adele", "address", "adobe", "adam sandler", "adidas samba", "adhd"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

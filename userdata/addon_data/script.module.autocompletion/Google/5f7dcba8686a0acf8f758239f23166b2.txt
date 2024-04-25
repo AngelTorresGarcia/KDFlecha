@@ -1,0 +1,1 @@
+["Buc", ["buchanan's", "buccaneers", "buckle", "bucks", "buckshot roulette", "buche", "bucaneros", "buchon", "bucket hat", "buchona"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

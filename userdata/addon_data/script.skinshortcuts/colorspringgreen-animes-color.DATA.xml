@@ -1,0 +1,42 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR springgreen][B]Buscar Anime 1[/B][/COLOR]</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.balandro%2fresources%2fmedia%2fthemes%2fdefault%2fanime.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJzZWFyY2giLAogICAgImNhdGVnb3J5IjogIlNvbG8gbG9zIENhbmFsZXMgZXhjbHVzaXZvcyBkZSBBbmltZXMiLAogICAgImNoYW5uZWwiOiAic2VhcmNoIiwKICAgICJpbmZvTGFiZWxzIjoge30sCiAgICAic2VhcmNoX3NwZWNpYWwiOiAiYW5pbWUiLAogICAgInNlYXJjaF90eXBlIjogImFsbCIsCiAgICAidGh1bWJuYWlsIjogIi9zdG9yYWdlL2VtdWxhdGVkLzAvQW5kcm9pZC9kYXRhL29yZy54Ym1jLmtvZGkvZmlsZXMvLmtvZGkvYWRkb25zL3BsdWdpbi52aWRlby5iYWxhbmRyby9yZXNvdXJjZXMvbWVkaWEvdGhlbWVzL2RlZmF1bHQvYW5pbWUucG5nIiwKICAgICJ0aXRsZSI6ICJbQ09MT1Igc3ByaW5nZ3JlZW5dW0JdQnVzY2FyIEFuaW1lIC4uLlsvQl1bL0NPTE9SXSIKfQ%3D%3D",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Buscar Anime 2</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.alfa%2fresources%2fmedia%2fthemes%2fdefault%2fthumb_search_generic.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJuZXdfc2VhcmNoIiwKICAgICJjaGFubmVsIjogInNlYXJjaCIsCiAgICAiY29udGV4dCI6IFsKICAgICAgICB7CiAgICAgICAgICAgICJhY3Rpb24iOiAic2V0dGluZ19jaGFubmVsX25ldyIsCiAgICAgICAgICAgICJjaGFubmVsIjogInNlYXJjaCIsCiAgICAgICAgICAgICJ0aXRsZSI6ICJFbGVnaXIgY2FuYWxlcyBpbmNsdWlkb3MiCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICJhY3Rpb24iOiAic2V0dGluZ3MiLAogICAgICAgICAgICAiY2hhbm5lbCI6ICJzZWFyY2giLAogICAgICAgICAgICAidGl0bGUiOiAiW0NPTE9SIGdyZWVuXU90cm9zIGFqdXN0ZXNbL0NPTE9SXSIKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgICAgImFjdGlvbiI6ICJjbGVhcl9zYXZlZF9zZWFyY2hlcyIsCiAgICAgICAgICAgICJjaGFubmVsIjogInNlYXJjaCIsCiAgICAgICAgICAgICJ0aXRsZSI6ICJCb3JyYXIgYlx1MDBmYXNxdWVkYXMgZ3VhcmRhZGFzIgogICAgICAgIH0KICAgIF0sCiAgICAiaW5mb0xhYmVscyI6IHt9LAogICAgIm1vZGUiOiAiYWxsIiwKICAgICJ0aHVtYm5haWwiOiAiL3N0b3JhZ2UvZW11bGF0ZWQvMC9BbmRyb2lkL2RhdGEvb3JnLnhibWMua29kaS9maWxlcy8ua29kaS9hZGRvbnMvcGx1Z2luLnZpZGVvLmFsZmEvcmVzb3VyY2VzL21lZGlhL3RoZW1lcy9kZWZhdWx0L3RodW1iX3NlYXJjaF9nZW5lcmljLnBuZyIsCiAgICAidGl0bGUiOiAiQnVzY2FyIHBvciB0aXR1bG8iCn0%3D",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR ff694572]Buscar Anime 3[/COLOR]</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fimages2.imgbox.com%2fc1%2f5f%2fo66Fp1xK_o.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.addon.zeroanime/?action=search",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>plugin.addon.zeroanime</defaultID>
+		<label>Zero Anime</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>thumb</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.addon.zeroanime",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR deepskyblue]Películas Anime[/COLOR]</label>
+		<label2>Add-on de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.balandro%2fresources%2fmedia%2fchannels%2fthumb%2fjkanime.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0X2FsbCIsCiAgICAiY2F0ZWdvcnkiOiAiSktBbmltZSIsCiAgICAiY2hhbm5lbCI6ICJqa2FuaW1lIiwKICAgICJpbmZvTGFiZWxzIjoge30sCiAgICAicGxvdCI6ICJbQ2FzdGVsbGFubywgTGF0aW5vLCBWb3NlLCBWT11bQ1JdW0NSXVdlYiBkZWRpY2FkYSBleGNsdXNpdmFtZW50ZSBhbCBhbmltZS4gUHVlZGUgcmVxdWVyaXIgZWwgdXNvIGRlIHByb3hpZXMgZW4gZnVuY2nDs24gZGVsIHBhw61zL29wZXJhZG9yYSBkZXNkZSBlbCBxdWUgc2UgYWNjZWRlLiIsCiAgICAic2VhcmNoX3R5cGUiOiAibW92aWUiLAogICAgInRodW1ibmFpbCI6ICIvc3RvcmFnZS9lbXVsYXRlZC8wL0FuZHJvaWQvZGF0YS9vcmcueGJtYy5rb2RpL2ZpbGVzLy5rb2RpL2FkZG9ucy9wbHVnaW4udmlkZW8uYmFsYW5kcm8vcmVzb3VyY2VzL21lZGlhL2NoYW5uZWxzL3RodW1iL2prYW5pbWUucG5nIiwKICAgICJ0aXRsZSI6ICJbQ09MT1IgZGVlcHNreWJsdWVdUGVsw61jdWxhc1svQ09MT1JdIiwKICAgICJ1cmwiOiAiaHR0cHM6Ly9qa2FuaW1lLm5ldC90aXBvL3BlbGljdWxhLyIKfQ%3D%3D",return)</action>
+		</shortcut>
+	</shortcuts>

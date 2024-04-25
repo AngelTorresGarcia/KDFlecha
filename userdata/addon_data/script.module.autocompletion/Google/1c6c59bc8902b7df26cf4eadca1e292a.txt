@@ -1,0 +1,1 @@
+["Buscar [COLOR deepskyblue]Pel\u00edcula[/COLOR] 1", ["buscar color deepskyblue pel\u00edcula /color 10", "buscar color deepskyblue pel\u00edcula /color 12", "buscar color deepskyblue pel\u00edcula /color 15", "buscar color deepskyblue pel\u00edcula /color 16"], [], {"google:suggestsubtypes": [[160], [160], [160], [160]], "google:suggesttype": ["TAIL", "TAIL", "TAIL", "TAIL"]}]

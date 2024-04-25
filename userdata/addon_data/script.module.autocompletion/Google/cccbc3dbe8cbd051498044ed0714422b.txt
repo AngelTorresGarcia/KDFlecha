@@ -1,0 +1,1 @@
+["https://luarsource.github.io/Fuente/", ["https://luarsource.github.io/fuente/"], [], {"google:suggestsubtypes": [[22, 30]], "google:suggesttype": ["QUERY"]}]

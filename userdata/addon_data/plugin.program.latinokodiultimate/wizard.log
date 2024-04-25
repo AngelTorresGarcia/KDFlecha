@@ -1,0 +1,21 @@
+[2024-04-24 22:09:28] [Path Check] Started
+[2024-04-24 22:09:28] [Path Check] Good!
+[2024-04-24 22:09:28] [First Run] Omitir la configuración de guardar datos
+[2024-04-24 22:09:32] URL check passed for https://latinokodi.live/scattered/lkum.txt: Status code [200]
+[2024-04-24 22:09:32] [Build Actual Check] Build Instalada: Super Build Latino
+[2024-04-24 22:09:32] [Build Update Check] Empezando
+[2024-04-24 22:09:32] URL check passed for https://latinokodi.live/scattered/lkum.txt: Status code [200]
+[2024-04-24 22:09:32] [Build Check] Build Instalada: Comprobar Actualizaciones
+[2024-04-24 22:09:32] URL check passed for https://latinokodi.live/scattered/lkum.txt: Status code [200]
+[2024-04-24 22:09:33] [Check Updates] ERROR: Unable to find build version in build text file
+[2024-04-24 22:09:33] [Auto Install Repo] Siguiente chequeo
+[2024-04-24 22:09:33] [Binary Detection] Complementos binarios elegibles para reinstalar
+[2024-04-24 22:09:33] [Auto actualizar Wizard] Started
+[2024-04-24 22:09:33] URL check passed for https://latinokodi.live/scattered/lkum.txt: Status code [200]
+[2024-04-24 22:09:33] URL check passed for https://latinokodi.live/scattered/lkum.txt: Status code [200]
+[2024-04-24 22:09:33] [Notifications] Not Enabled
+[2024-04-24 22:09:33] [Build instalada Check] Not Enabled
+[2024-04-24 22:09:33] [Trakt Data] Not Enabled
+[2024-04-24 22:09:33] [Debrid Data] Not Enabled
+[2024-04-24 22:09:33] [Login Info] Not Enabled
+[2024-04-24 22:09:33] [Limpieza automática] Not Enabled

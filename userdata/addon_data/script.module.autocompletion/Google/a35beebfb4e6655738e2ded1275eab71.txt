@@ -1,0 +1,1 @@
+["PEL\u00b4ICUL", ["peliculas"], [], {"google:suggestsubtypes": [[22, 30, 10]], "google:suggesttype": ["QUERY"]}]

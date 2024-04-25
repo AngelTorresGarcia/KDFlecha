@@ -1,0 +1,1 @@
+[" - Buscar [COLOR hotpink]Serie 1[/COLOR] ...", ["- buscar color hotpink serie 1 /color ...\u0000"], [], {"google:suggestsubtypes": [[10, 160]], "google:suggesttype": ["TAIL"]}]

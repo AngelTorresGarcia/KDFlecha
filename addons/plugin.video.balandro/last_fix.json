@@ -1,0 +1,51 @@
+{
+    "addon_version": "4.0.02",
+    "files": {
+        "channels": [
+            "allpeliculasse",
+            "ciberdocumentales",
+            "cinecalidad",
+            "cinecalidadla",
+            "cinecalidadlol",
+            "cuevana3lw",
+            "dontorrents",
+            "dontorrentsin",
+            "gnula24",
+            "gnula24h",
+            "hdfull",
+            "hdfullse",
+            "henaojara",
+            "mejortorrentapp",
+            "motherless",
+            "peliplayhd",
+            "pelispediais",
+            "pelisplushd",
+            "pelisplushdlat",
+            "pelisplushdnz",
+            "repelisre",
+            "series24",
+            "tubehentai",
+            "ultrapelis",
+            "uphd"
+        ],
+        "modules": [
+            "generos",
+            "helper",
+            "submnuteam"
+        ],
+        "root dir": [
+            "dominios",
+            "version"
+        ],
+        "servers": [
+            "okru",
+            "uqload",
+            "various",
+            "vimeo",
+            "voe",
+            "waaw"
+        ]
+    },
+    "fix_version": 2,
+    "hash": "67165cc6adff2f1b58429049bbe1336b"
+}

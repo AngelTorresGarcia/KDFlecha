@@ -1,0 +1,1 @@
+["FA", ["facebook", "falabella", "farmatodo", "facebook lite", "fast", "farfetch", "farmacia", "farmacenter", "falcao", "fanny lu"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

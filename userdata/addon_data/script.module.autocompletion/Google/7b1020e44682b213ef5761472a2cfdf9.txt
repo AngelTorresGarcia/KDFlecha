@@ -1,0 +1,1 @@
+["N", ["nfl", "netflix", "nike", "nba", "nfl scores", "nfl schedule", "nintendo switch", "nicki nicole", "nissan", "nfl standings"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

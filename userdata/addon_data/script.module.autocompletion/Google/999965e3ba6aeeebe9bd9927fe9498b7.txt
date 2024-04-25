@@ -1,0 +1,1 @@
+["[COLOR ff694572]Buscar Ani[/COLOR]", ["como buscar un pantone en illustrator", "como saber el pantone de un color en illustrator", "color #ff00ff"], [], {"google:suggestsubtypes": [[512, 546], [512, 546], [512, 546]], "google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

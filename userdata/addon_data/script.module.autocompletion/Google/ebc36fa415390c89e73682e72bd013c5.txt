@@ -1,0 +1,1 @@
+["A", ["avianca", "amazon", "airbnb", "adidas", "aliexpress", "amazon prime", "apple", "american airlines", "adele", "anydesk"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

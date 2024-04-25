@@ -1,0 +1,1 @@
+["VideoDevi", ["videodevil not working", "video devices", "videodevil (premium) apk v3.7.0", "videodevil 3.6.0 premium apk"], [], {"google:suggestsubtypes": [[512], [512, 10], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY"]}]

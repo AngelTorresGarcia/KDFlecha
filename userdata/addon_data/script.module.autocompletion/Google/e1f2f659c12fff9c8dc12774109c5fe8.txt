@@ -1,0 +1,1 @@
+["[COLOR orange] [B]Adultos[/B][/COLOR]", ["color orange b adultos /b /color /", "color orange b adultos /b /color 2", "color orange b adultos /b /color 1"], [], {"google:suggestsubtypes": [[160], [160], [160]], "google:suggesttype": ["TAIL", "TAIL", "TAIL"]}]

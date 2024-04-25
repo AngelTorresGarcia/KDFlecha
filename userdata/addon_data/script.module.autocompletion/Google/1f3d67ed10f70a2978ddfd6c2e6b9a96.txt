@@ -1,0 +1,1 @@
+["Ga", ["gabito ballesteros", "gamestop", "gas", "game of thrones", "gap", "gandhi", "gato", "gartic phone", "games", "gaia"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

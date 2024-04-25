@@ -1,0 +1,1 @@
+["Re", ["reporte de puentes", "real madrid", "repuve", "reddit", "restaurants near me", "rebel moon", "reacher", "real madrid vs", "registro civil", "receiptify"], [], {"google:suggestsubtypes": [[512], [512], [512], [512], [512], [512], [512], [512], [512], [512]], "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]
